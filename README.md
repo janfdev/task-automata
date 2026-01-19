@@ -1,6 +1,6 @@
 # Login Automata - DFA Implementation
 
-## Proyek Mata Kuliah Teori Bahasa dan Automat
+## Proyek Mata Kuliah Teori Bahasa dan Automata
 
 ### 📚 Deskripsi Proyek
 
