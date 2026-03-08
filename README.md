@@ -1,4 +1,4 @@
-# Login BahasAutomata - DFA Implementation
+# Login Bahasa Automata - DFA Implementation
 
 ## Proyek Mata Kuliah Teori Bahasa dan Automata
 
